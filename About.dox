@@ -1,0 +1,23 @@
+/*! \mainpage MyShell
+ *
+ * \section intro_sec Introduction
+ *
+ * 	A basic shell implementation.
+ *	I made this project as a part of my college
+ *	assignment. 
+ *
+ * \section install_sec Installation
+ *
+ * \subsection step1 Step 1: make build
+ * \subsection step2 Step 2: make run
+ * \subsection step3 Step 3: make prep-doxy
+ *
+ *  
+ * 	Compile all the files using "make build" first and
+ *	then run "./mybash" or "make run" to use the shell.
+ */
+
+
+
+
+
